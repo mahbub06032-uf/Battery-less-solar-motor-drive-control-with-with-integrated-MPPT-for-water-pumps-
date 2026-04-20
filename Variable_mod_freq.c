@@ -24,8 +24,8 @@
 
 // ---------------- USER SETTINGS ----------------
 #define PWM_CARRIER_FREQ_HZ   20000.0f   // Fixed PWM carrier = 20 kHz
-#define SINE_FREQ_MIN_HZ      10.0f      // Minimum sine output frequency
-#define SINE_FREQ_MAX_HZ      200.0f     // Maximum sine output frequency
+#define SINE_FREQ_MIN_HZ      28.0f      // Minimum sine output frequency
+#define SINE_FREQ_MAX_HZ      40.0f     // Maximum sine output frequency
 
 #define ADC_MAX_COUNT         4095.0f
 #define ADC_REF_VOLT          3.0f       // F28335 ADC reference usually 3.0V
