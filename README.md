@@ -41,9 +41,9 @@ ADC input voltage controls sine frequency:
 
 | ADC Voltage | Output Sine Frequency |
 |------------|------------------------|
-| 0 V        | 10 Hz                  |
-| 1.5 V      | 105 Hz                 |
-| 3.0 V      | 200 Hz                 |
+| 0 V        | 28 Hz                  |
+| 1.5 V      | 34 Hz                 |
+| 3.0 V      | 40 Hz                 |
 
 Linear mapping:
 
